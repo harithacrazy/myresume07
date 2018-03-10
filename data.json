@@ -1,0 +1,40 @@
+{
+  "basics":{
+    "photo":"download.jpg",
+    "name":"Haritha",
+    "phone":"7680915726",
+    "email":"harithappp@outlook.com",
+    "Address":"(d/o)bschalam,sklm"
+  },
+  "education":[{
+    "course":"B.Tech(computer science and engineering)",
+    "institute":"CR Reddy enginerring college",
+    "data":["2015-2019","74%"]
+  },
+
+  {
+    "course":"Inter(MPC)",
+    "institute":"Sri Chaitanya College",
+    "data":["2013-2015","94%"]
+  },
+  {
+    "course":"ssc",
+    "Institute" :"Narayana e-techno school",
+"data":["2012-2013","98%"]
+  }
+],
+"skills":[
+  {
+    "name":"language",
+    "data":["C","JAVA","PHP"]
+  },
+  {
+    "name":"Web Technologies",
+    "data":["HTML","CSS","PHP"]
+  },
+  {
+    "name":"OS",
+    "data":["windows","Linux","Unix"]
+    }
+]
+}
